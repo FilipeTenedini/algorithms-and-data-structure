@@ -7,7 +7,7 @@ class Pessoa{
     }
 
     imprimir(){
-        console.log(this.id, this.name, this.fone, this.city);
+        console.log(`${this.id}, ${this.mainName}, ${this.fone}, ${this.city.name}`);
     }
 }        
 
