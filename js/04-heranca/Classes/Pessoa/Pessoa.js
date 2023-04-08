@@ -1,9 +1,9 @@
 class Pessoa{
     constructor(id, mainName, fone, city){
-        this.id = id
+        this.id = id;
         this.mainName = mainName;
         this.fone = fone;
-        this.city = city
+        this.city = city;
     }
 
     imprimir(){

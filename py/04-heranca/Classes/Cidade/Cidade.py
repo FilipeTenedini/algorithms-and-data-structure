@@ -1,5 +1,5 @@
 class Cidade:
 
-    def __init__(self, id, nome):
+    def __init__(self, id, name):
         self.id = id
-        self.nome = nome
+        self.name = name
